@@ -24,4 +24,4 @@ The game logic is built using JavaScript. It works by randomly selecting a word 
 
 ## Author
 
-Shubam Sharma
+Aditya Singh
