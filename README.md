@@ -4,7 +4,7 @@ A fun and interactive word guessing game built with ReactJS,Tailwind CSS and HTM
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/sharmashubam/wordle-react-algorithm.git`
+1. Clone the repository: `git clone https://github.com/AdityaSingh1211/wordle-react-algorithm.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 
